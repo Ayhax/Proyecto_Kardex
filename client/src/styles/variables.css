@@ -1,0 +1,21 @@
+:root {
+  --primary-blue: #4A80BF;
+  --sidebar-gray: #232B38;
+  --bg-light: #f4f7f6;
+  --text-dark: #333;
+  --blue-dark: #03448b;
+  --blue-ligth: #B5D4F4;
+  --blue-active: #34455C;
+  --blue-hover: #2C3646;
+  --red-error-fondo: #ffd6d7;
+  --red-error: #ff0004;
+
+  /* Derivados usados en los mockups aprobados */
+  --line: #e2e6ea;
+  --text-muted: #8f97a1;
+  --white: #ffffff;
+  --green: #2e9e5b;
+  --green-bg: #e3f5ea;
+  --amber: #b3760a;
+  --amber-bg: #fbeed7;
+}
